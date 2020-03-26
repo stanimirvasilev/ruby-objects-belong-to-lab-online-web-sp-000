@@ -3,12 +3,7 @@ class Artist
  
   def initialize(name) 
     @name = name
-    
   end
  
-  def name
-   self.name = @name
-  end
-   
  
 end
