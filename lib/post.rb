@@ -6,4 +6,4 @@ class Post
 end
 
 title = Post.new 
-title = Post.new.author
+title.author
