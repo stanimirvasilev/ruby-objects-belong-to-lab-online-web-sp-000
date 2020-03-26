@@ -7,3 +7,4 @@ end
 
 
 song = Song.new 
+song.artist
