@@ -6,10 +6,9 @@ class Artist
     
   end
  
- def artist_name(name)
+  def name
    self.name = @name
-   
-end
+  end
    
  
 end
