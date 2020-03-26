@@ -7,3 +7,4 @@ class Artist
  
 end
 
+artist.name = (@name)
